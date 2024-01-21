@@ -13,6 +13,6 @@ import org.springframework.stereotype.Service;
 public class MailNotifyService implements  NotifyService{
     @Override
     public void notifyMessage(String userId, String content) {
-        System.out.println('邮件通知');
+        System.out.println("邮件通知");
     }
 }
