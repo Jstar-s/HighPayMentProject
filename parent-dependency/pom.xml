@@ -14,6 +14,7 @@
     <modules>
         <module>../pattern-design</module>
         <module>../spring-data-use</module>
+        <module>../rabbitmq-learn</module>
     </modules>
 
     <profiles>
